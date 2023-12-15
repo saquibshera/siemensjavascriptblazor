@@ -1,0 +1,22 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+
+
+<SurveyPrompt Title="How is Blazor working for you?" />
+<button type="button" @onclick="Appendtext">Run javascript</button>
+<h1 id="hdd">Hello it will hide</h1>
+<div id="p-container">
+</div>
+@inject IJSRuntime js
+@code{
+    public async void Appendtext()
+    {
+        await js.InvokeAsync<string>("showalert", "This is my text alert");
+    }
+}

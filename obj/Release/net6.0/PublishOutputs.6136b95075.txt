@@ -1,0 +1,7 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\blazorjavascript.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\blazorjavascript.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\blazorjavascript.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\blazorjavascript.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\blazorjavascript\blazorjavascript\obj\Release\net6.0\PubTmp\Out\blazorjavascript.pdb
